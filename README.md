@@ -150,10 +150,6 @@ If weight ≠ 66, the FSM loops back to IDLE **autonomously** — the CPU is nev
 
 ## 📊 Simulation Results
 
-### Waveform — FSM Execution
-
-<div align="center">
-<img src="images/waveform_fsm.png" alt="ModelSim FSM Waveform" width="90%"/>
 <br><i>Figure 5: ModelSim waveform — FSM transitions from IDLE through COUNT/CHECK to DONE</i>
 </div>
 
