@@ -150,9 +150,6 @@ If weight ≠ 66, the FSM loops back to IDLE **autonomously** — the CPU is nev
 
 ## 📊 Simulation Results
 
-<br><i>Figure 5: ModelSim waveform — FSM transitions from IDLE through COUNT/CHECK to DONE</i>
-</div>
-
 <br>
 
 | Phase | Key Signals | Action |
