@@ -104,12 +104,6 @@ The system is organized into three layers:
 ---
 
 ## 🔄 FSM State Machine
-
-<div align="center">
-<img src="images/fsm_diagram.png" alt="FSM State Diagram" width="75%"/>
-<br><i>Figure 3: 4-state PQC FSM — IDLE → COUNT → CHECK → DONE</i>
-</div>
-
 <br>
 
 | State | Encoding | Trigger | Action |
@@ -214,11 +208,6 @@ A single-bit change in the input message was applied between Hash A and Hash B:
 ---
 
 ## 🖥️ FPGA Physical Validation
-
-<div align="center">
-<img src="images/fpga_board.png" alt="Altera DE2-115 FPGA Board — Physical Validation" width="80%"/>
-<br><i>Figure 9: Altera DE2-115 Cyclone IV FPGA — Green LED (LEDG6) lit = valid HQC-128 hash found</i>
-</div>
 
 <br>
 
