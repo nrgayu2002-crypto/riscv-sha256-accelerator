@@ -38,6 +38,7 @@
 
 ---
 
+
 ## 📌 Project Overview
 
 This project implements a **hardware-software co-design** on a 32-bit **Pulpino RISC-V SoC** that eliminates the *software hashing bottleneck* in post-quantum cryptographic systems. A custom SHA-256 accelerator — tightly integrated with a pipelined Hamming weight filter — performs autonomous **rejection sampling** for HQC-128 entirely in hardware, freeing the processor from bitwise-heavy computation.
